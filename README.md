@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Sanjay
 
-<!--
-**PoluSanjay/PoluSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student from India  
+💻 Aspiring Data Scientist | DSA Enthusiast  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Currently learning: Machine Learning & Advanced DSA  
+- 👨‍💻 Strong in: Python, C, Data Structures  
+- 🎯 Goal: Become a Data Scientist  
+- ⚡ Fun fact: I love solving coding problems  
+
+---
+
+## 🚀 Skills
+### 👨‍💻 Programming
+- Python 🐍
+- C
+
+### 📊 Data Science
+- Machine Learning
+- Pandas, NumPy
+- Data Analysis
+
+### 🧠 Core CS
+- Data Structures & Algorithms
+- DBMS
+- Computer Networks
+
+---
+
+## 🔥 Projects
+- 🐍 Snake Game  
+- ❌⭕ Tic Tac Toe  
+- 🧠 Disease Prediction Model  
+- 📈 Stock Trend Analyzer  
+
+---
+
+## 🌐 Connect with me
+- 📧 Email: sanjaypolu3@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+
+---
+
+## 🧠 Quote
+_"Consistency beats talent when talent doesn't work hard."_
