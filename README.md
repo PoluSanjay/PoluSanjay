@@ -35,7 +35,8 @@
 - 🐍 Snake Game  
 - ❌⭕ Tic Tac Toe  
 - 🧠 Disease Prediction Model  
-- 📈 Stock Trend Analyzer  
+- 📈 Stock Trend Analyzer
+- E-commerce website for Water Purifiers
 
 ---
 
