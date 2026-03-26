@@ -18,7 +18,7 @@
 ### 👨‍💻 Programming
 - Python 🐍
 - C
-- Web Development
+- Web Development.
 
 ### 📊 Data Science
 - Machine Learning
