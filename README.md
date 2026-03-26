@@ -36,7 +36,7 @@
 - ❌⭕ Tic Tac Toe  
 - 🧠 Disease Prediction Model  
 - 📈 Stock Trend Analyzer
-- E-commerce website for Water Purifiers
+- E-commerce website for Water Purifiers.
 
 ---
 
