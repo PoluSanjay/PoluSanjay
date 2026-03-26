@@ -41,7 +41,7 @@
 
 ## 🌐 Connect with me
 - 📧 Email: sanjaypolu3@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- 💼 LinkedIn: https://linkedin.com/in/sanjay-polu  
 
 ---
 
