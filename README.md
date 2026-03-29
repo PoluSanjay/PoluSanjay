@@ -28,7 +28,8 @@
 ### 🧠 Core CS
 - Data Structures & Algorithms
 - DBMS
-- Computer Networks
+- Computer Networks(CN)
+- 
 
 ---
 
