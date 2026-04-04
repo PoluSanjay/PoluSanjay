@@ -39,6 +39,7 @@
 - 🧠 Disease Prediction Model : https://mediai-health.vercel.app/
 - 📈 Stock Trend Analyzer
 - E-commerce website for Water Purifiers : https://bluedrop-frontend.vercel.app/
+- LeetCode Tracker : https://polusanjay.github.io/lc-tracker/
 
 ---
 
