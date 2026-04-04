@@ -36,9 +36,9 @@
 ## 🔥 Projects
 - 🐍 Snake Game  
 - ❌⭕ Tic Tac Toe  
-- 🧠 Disease Prediction Model  
+- 🧠 Disease Prediction Model : https://mediai-health.vercel.app/
 - 📈 Stock Trend Analyzer
-- E-commerce website for Water Purifiers.
+- E-commerce website for Water Purifiers : https://bluedrop-frontend.vercel.app/
 
 ---
 
