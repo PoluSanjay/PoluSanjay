@@ -37,7 +37,7 @@
 - 🐍 Snake Game  
 - ❌⭕ Tic Tac Toe  
 - 🧠 Disease Prediction Model : https://mediai-health.vercel.app/
-- 📈 Stock Trend Analyzer
+- 📈 Stock Trend Analyzer :  https://polusanjay.github.io/stock_analyzer/
 - E-commerce website for Water Purifiers : https://bluedrop-frontend.vercel.app/
 - LeetCode Tracker : https://polusanjay.github.io/lc-tracker/
 
