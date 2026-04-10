@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🌱 Currently learning: Machine Learning & Advanced DSA  
 - 👨‍💻 Strong in: Python, C, Data Structures  
-- 🎯 Goal: Become a Data Scientist  
+- 🎯 Goal: Become a Software Engineer
 - ⚡ Fun fact: I love solving coding problems  
 
 ---
