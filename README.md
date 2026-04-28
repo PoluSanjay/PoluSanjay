@@ -13,6 +13,11 @@
 - ⚡ Fun fact: I love solving coding problems  
 
 ---
+## Languages
+- English
+- Hindi
+- German
+- Telugu
 
 ## 🚀 Skills
 ### 👨‍💻 Programming
@@ -29,7 +34,6 @@
 - Data Structures & Algorithms
 - DBMS
 - Computer Networks(CN)
-- 
 
 ---
 
